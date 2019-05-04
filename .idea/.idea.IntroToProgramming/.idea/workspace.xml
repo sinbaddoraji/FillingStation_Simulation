@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d96e9db7-2ac5-477a-b9d2-0fa70b206320" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainForm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/MainForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding>
+                <marker date="1543512119908" expanded="false" signature="6:41" ph="..." />
+                <marker date="1543512119908" expanded="true" signature="71:4326" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="114:4324" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="146:319" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="383:728" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="787:3251" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="810:1018" ph="/* Send vehicle to first free pump ... */" />
+                <marker date="1543512119908" expanded="true" signature="1116:1283" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="1354:1521" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="1564:1731" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="1745:1805" ph="/* Fuel pump 6 followed by 5 and then 4 ... */" />
+                <marker date="1543512119908" expanded="true" signature="1903:2070" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="2141:2308" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="2351:2518" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="2532:2592" ph="/* Fuel pump 3 followed by 2 and then 1 ... */" />
+                <marker date="1543512119908" expanded="true" signature="2690:2833" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="2908:3051" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="3098:3241" ph="{...}" />
+                <marker date="1543512119908" expanded="true" signature="3302:3797" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543508658038" expanded="false" signature="6:41" ph="..." />
+                <marker date="1543508658038" expanded="true" signature="71:353" ph="{...}" />
+                <marker date="1543508658038" expanded="true" signature="107:351" ph="{...}" />
+                <marker date="1543508658038" expanded="true" signature="168:345" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pump.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/Pump.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <marker date="1543513388655" expanded="false" signature="6:86" ph="..." />
+                <marker date="1543513388655" expanded="true" signature="116:2259" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="149:2257" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="254:345" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="389:731" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="441:478" ph="/* Pump ... */" />
+                <marker date="1543513388655" expanded="true" signature="787:2073" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="810:1050" ph="/* Clone original variable ... */" />
+                <marker date="1543513388655" expanded="true" signature="1113:1187" ph="/* Disable car wait count ... */" />
+                <marker date="1543513388655" expanded="true" signature="1702:1931" ph="{...}" />
+                <marker date="1543513388655" expanded="true" signature="2109:2251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PumpHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/PumpHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543511638308" expanded="true" signature="6:41" ph="..." />
+                <marker date="1543511638308" expanded="true" signature="71:1113" ph="{...}" />
+                <marker date="1543511638308" expanded="true" signature="124:1111" ph="{...}" />
+                <marker date="1543511638308" expanded="true" signature="159:541" ph="{...}" />
+                <marker date="1543511638308" expanded="true" signature="185:531" ph="{...}" />
+                <marker date="1543511638308" expanded="true" signature="330:441" ph="{...}" />
+                <marker date="1543511638308" expanded="true" signature="674:1105" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Transactions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/Transactions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <folding>
+                <marker date="1543513412707" expanded="true" signature="28:1424" ph="{...}" />
+                <marker date="1543513412707" expanded="true" signature="69:1422" ph="{...}" />
+                <marker date="1543513412707" expanded="true" signature="84:241" ph="/* Money liters sold equqate to using rate below ... */" />
+                <marker date="1543513412707" expanded="true" signature="635:709" ph="/* Total commision for fuel attendant ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransactionsForm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/TransactionsForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542846682854" expanded="false" signature="6:41" ph="..." />
+                <marker date="1542846682854" expanded="true" signature="71:408" ph="{...}" />
+                <marker date="1542846682854" expanded="true" signature="122:406" ph="{...}" />
+                <marker date="1542846682854" expanded="true" signature="162:253" ph="{...}" />
+                <marker date="1542846682854" expanded="true" signature="323:400" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/Vehicle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+              <folding>
+                <marker date="1543513963006" expanded="false" signature="6:100" ph="..." />
+                <marker date="1543513963006" expanded="true" signature="130:6062" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="166:6060" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="1139:1500" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="1165:1490" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="1549:2069" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="1846:1921" ph="/* if timer ever gets the chance to run ... */" />
+                <marker date="1543513963006" expanded="true" signature="2122:3500" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="2254:2686" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="2700:2809" ph="/* £1.35 per litre for diseal ... */" />
+                <marker date="1543513963006" expanded="true" signature="3564:4329" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="3783:3874" ph="/* Take log of fuel dispensed based on fuel type ... */" />
+                <marker date="1543513963006" expanded="true" signature="3913:4319" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="4403:5532" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="4426:4614" ph="/* Cars - maximum 40 litres (All Fuel Types) ... */" />
+                <marker date="1543513963006" expanded="true" signature="4647:5349" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="5576:6054" ph="{...}" />
+                <marker date="1543513963006" expanded="true" signature="5628:5668" ph="/* Fueling ... */" />
+                <marker date="1543513963006" expanded="true" signature="5761:5801" ph="/* Vehicle ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VehicleQueue.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IntroToProgramming/VehicleQueue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1543511160745" expanded="true" signature="6:92" ph="..." />
+                <marker date="1543511160745" expanded="true" signature="122:3641" ph="{...}" />
+                <marker date="1543511160745" expanded="true" signature="170:3639" ph="{...}" />
+                <marker date="1543511160745" expanded="true" signature="719:1355" ph="{...}" />
+                <marker date="1543511160745" expanded="true" signature="916:1344" ph="{...}" />
+                <marker date="1543511160745" expanded="true" signature="947:1057" ph="/* Change Time it takes for vehicles to be created ... */" />
+                <marker date="1543511160745" expanded="true" signature="1141:1269" ph="/* Keep Count of total vehicles created ... */" />
+                <marker date="1543511160745" expanded="true" signature="1399:3034" ph="{...}" />
+                <marker date="1543511160745" expanded="true" signature="1633:1677" ph="/* CarCreation ... */" />
+                <marker date="1543511160745" expanded="true" signature="1783:1832" ph="/* flowLayoutPanel1 ... */" />
+                <marker date="1543511160745" expanded="true" signature="2315:2354" ph="/* label1 ... */" />
+                <marker date="1543511160745" expanded="true" signature="2726:2771" ph="/* VehicleQueue ... */" />
+                <marker date="1543511160745" expanded="true" signature="3213:3489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/FuelLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/PumpHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/Transactions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/VehicleQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/Pump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntroToProgramming/TransactionsForm.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IntroToProgramming/FuelLog.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgramming/Pump.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgramming/Transactions.cs" />
+        <option value="$PROJECT_DIR$/IntroToProgramming/Vehicle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IntroToProgramming (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="IntroToProgramming (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="IntroToProgramming" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IntroToProgramming/bin/Debug/IntroToProgramming.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroToProgramming/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntroToProgramming/IntroToProgramming.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d96e9db7-2ac5-477a-b9d2-0fa70b206320" name="Default" comment="" />
+      <created>1543513090245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543513090245</updated>
+      <workItem from="1543513101729" duration="1102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1102000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/FuelLog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1543513323977" expanded="false" signature="6:41" ph="..." />
+            <marker date="1543513323977" expanded="true" signature="71:1329" ph="{...}" />
+            <marker date="1543513323977" expanded="true" signature="113:1327" ph="{...}" />
+            <marker date="1543513323977" expanded="true" signature="128:221" ph="/* Display money gotten from fuel type if is moneyMode ... */" />
+            <marker date="1543513323977" expanded="true" signature="323:560" ph="{...}" />
+            <marker date="1543513323977" expanded="true" signature="346:438" ph="/* if is moneyMode MoneyFromLitersCounter Start ... */" />
+            <marker date="1543513323977" expanded="true" signature="642:980" ph="{...}" />
+            <marker date="1543513323977" expanded="true" signature="1058:1321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/MainForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding>
+            <marker date="1543512119908" expanded="false" signature="6:41" ph="..." />
+            <marker date="1543512119908" expanded="true" signature="71:4326" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="114:4324" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="146:319" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="383:728" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="787:3251" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="810:1018" ph="/* Send vehicle to first free pump ... */" />
+            <marker date="1543512119908" expanded="true" signature="1116:1283" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="1354:1521" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="1564:1731" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="1745:1805" ph="/* Fuel pump 6 followed by 5 and then 4 ... */" />
+            <marker date="1543512119908" expanded="true" signature="1903:2070" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="2141:2308" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="2351:2518" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="2532:2592" ph="/* Fuel pump 3 followed by 2 and then 1 ... */" />
+            <marker date="1543512119908" expanded="true" signature="2690:2833" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="2908:3051" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="3098:3241" ph="{...}" />
+            <marker date="1543512119908" expanded="true" signature="3302:3797" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543508658038" expanded="false" signature="6:41" ph="..." />
+            <marker date="1543508658038" expanded="true" signature="71:353" ph="{...}" />
+            <marker date="1543508658038" expanded="true" signature="107:351" ph="{...}" />
+            <marker date="1543508658038" expanded="true" signature="168:345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/Pump.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <marker date="1543513388655" expanded="false" signature="6:86" ph="..." />
+            <marker date="1543513388655" expanded="true" signature="116:2259" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="149:2257" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="254:345" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="389:731" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="441:478" ph="/* Pump ... */" />
+            <marker date="1543513388655" expanded="true" signature="787:2073" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="810:1050" ph="/* Clone original variable ... */" />
+            <marker date="1543513388655" expanded="true" signature="1113:1187" ph="/* Disable car wait count ... */" />
+            <marker date="1543513388655" expanded="true" signature="1702:1931" ph="{...}" />
+            <marker date="1543513388655" expanded="true" signature="2109:2251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/PumpHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543511638308" expanded="true" signature="6:41" ph="..." />
+            <marker date="1543511638308" expanded="true" signature="71:1113" ph="{...}" />
+            <marker date="1543511638308" expanded="true" signature="124:1111" ph="{...}" />
+            <marker date="1543511638308" expanded="true" signature="159:541" ph="{...}" />
+            <marker date="1543511638308" expanded="true" signature="185:531" ph="{...}" />
+            <marker date="1543511638308" expanded="true" signature="330:441" ph="{...}" />
+            <marker date="1543511638308" expanded="true" signature="674:1105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/Transactions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <marker date="1543513412707" expanded="true" signature="28:1424" ph="{...}" />
+            <marker date="1543513412707" expanded="true" signature="69:1422" ph="{...}" />
+            <marker date="1543513412707" expanded="true" signature="84:241" ph="/* Money liters sold equqate to using rate below ... */" />
+            <marker date="1543513412707" expanded="true" signature="635:709" ph="/* Total commision for fuel attendant ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/TransactionsForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542846682854" expanded="false" signature="6:41" ph="..." />
+            <marker date="1542846682854" expanded="true" signature="71:408" ph="{...}" />
+            <marker date="1542846682854" expanded="true" signature="122:406" ph="{...}" />
+            <marker date="1542846682854" expanded="true" signature="162:253" ph="{...}" />
+            <marker date="1542846682854" expanded="true" signature="323:400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/Vehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+          <folding>
+            <marker date="1543513963006" expanded="false" signature="6:100" ph="..." />
+            <marker date="1543513963006" expanded="true" signature="130:6062" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="166:6060" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="1139:1500" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="1165:1490" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="1549:2069" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="1846:1921" ph="/* if timer ever gets the chance to run ... */" />
+            <marker date="1543513963006" expanded="true" signature="2122:3500" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="2254:2686" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="2700:2809" ph="/* £1.35 per litre for diseal ... */" />
+            <marker date="1543513963006" expanded="true" signature="3564:4329" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="3783:3874" ph="/* Take log of fuel dispensed based on fuel type ... */" />
+            <marker date="1543513963006" expanded="true" signature="3913:4319" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="4403:5532" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="4426:4614" ph="/* Cars - maximum 40 litres (All Fuel Types) ... */" />
+            <marker date="1543513963006" expanded="true" signature="4647:5349" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="5576:6054" ph="{...}" />
+            <marker date="1543513963006" expanded="true" signature="5628:5668" ph="/* Fueling ... */" />
+            <marker date="1543513963006" expanded="true" signature="5761:5801" ph="/* Vehicle ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntroToProgramming/VehicleQueue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1543511160745" expanded="true" signature="6:92" ph="..." />
+            <marker date="1543511160745" expanded="true" signature="122:3641" ph="{...}" />
+            <marker date="1543511160745" expanded="true" signature="170:3639" ph="{...}" />
+            <marker date="1543511160745" expanded="true" signature="719:1355" ph="{...}" />
+            <marker date="1543511160745" expanded="true" signature="916:1344" ph="{...}" />
+            <marker date="1543511160745" expanded="true" signature="947:1057" ph="/* Change Time it takes for vehicles to be created ... */" />
+            <marker date="1543511160745" expanded="true" signature="1141:1269" ph="/* Keep Count of total vehicles created ... */" />
+            <marker date="1543511160745" expanded="true" signature="1399:3034" ph="{...}" />
+            <marker date="1543511160745" expanded="true" signature="1633:1677" ph="/* CarCreation ... */" />
+            <marker date="1543511160745" expanded="true" signature="1783:1832" ph="/* flowLayoutPanel1 ... */" />
+            <marker date="1543511160745" expanded="true" signature="2315:2354" ph="/* label1 ... */" />
+            <marker date="1543511160745" expanded="true" signature="2726:2771" ph="/* VehicleQueue ... */" />
+            <marker date="1543511160745" expanded="true" signature="3213:3489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
